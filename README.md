@@ -74,6 +74,8 @@ This toolkit is ideal for:
 
 ---
 
+LICENSE
+
 ## 💻 Usage
 
 Run the main portfolio optimization script:
